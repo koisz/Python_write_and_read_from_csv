@@ -1,7 +1,13 @@
-Aplikacja do zarządzania informacją medyczną, gromadząca dane osobowe pacjentów i listy ich zabiegów medycznych.
+# Aplikacja do zarządzania informacją medyczną
 
-Instrukcja obsługi:
-Aplikacja działa w terminalu. Wraz z kodem został dołączony plik csv o nazwie „Pacjenci”, z którego aplikacja wczytuje listę pacjentów. Do pliku zostali zapisani przykładowi pacjenci.
-Aplikacja umożliwia wybór pacjenta w celu obejrzenia jego danych osobowych i zabiegów medycznych oraz dodanie nowego zabiegu. Możliwe jest także dodanie pacjenta do listy pacjentów.
+Aplikacja konsolowa umożliwiająca zarządzanie informacją medyczną, gromadząca dane osobowe pacjentów oraz listy ich zabiegów medycznych. Pozwala na zapisywanie aktualnych danych do pliku CSV oraz odczytywanie danych z istniejącego pliku CSV. Repozytorium zawiera przykładowy plik (`Pacjenci.csv`) z danymi do odczytu.
 
-Projekt nie używa pakietów dodatkowych.
+## Wymagania
+
+Do uruchomienia tej aplikacji nie są wymagane żadne dodatkowe biblioteki ani zewnętrzne narzędzia.
+
+## Autor
+
+Ta aplikacja została stworzona przez:
+- Natalia Koiszewska, koisz
+
